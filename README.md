@@ -24,23 +24,19 @@
 <br/><br/>
 
 <!-- 🐍 SOCIAL LINKS ROW -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-chaudhari-06ba06373/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Relvixx89@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
+<a href="https://x.com/relvixx89"
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 &nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<a href="https://discord.com/users/relvix89_85083">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO.dev">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-&nbsp;
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+
 
 </div>
 
@@ -58,11 +54,11 @@
 
 ```yaml
 ───────────────────────────────────────────────
-  name        : "YOUR_NAME"
-  pronouns    : "He / Him"
+  name        : "Rahul Choudhary"
+  pronouns    : "He"
   role        : "Robotics & Automation Student"
-  university  : "YOUR_UNIVERSITY"
-  year        : "Xth Year (2024–2028)"
+  university  : "MET Bhujbal knowledge city-Institute Of Technology"
+  year        : "2nd Year (2025–2029)"
   location    : "India 🇮🇳"
 ───────────────────────────────────────────────
   currently   :
@@ -97,15 +93,15 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&ring_color=00FFFF"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&card_width=400"/>
+<a href="https://github.com/Relvixx">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Relvixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&ring_color=00FFFF"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&card_width=400"/>
 </a>
 
 <br/>
 
 <!-- 🔥 GITHUB STREAK STATS - Feature #8 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=14&dates=AAAAAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Relvixx&theme=tokyonight&hide_border=false&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF&sideLabels=FFFFFF&border_radius=14&dates=AAAAAA)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +115,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=5&margin-h=12&margin-w=12&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Relvixx&theme=tokyonight&row=2&column=5&margin-h=12&margin-w=12&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -133,7 +129,7 @@
 
 <div align="center">
 
-[![YOUR_NAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF&radius=12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YOUR_NAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Relvixx&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF&radius=12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -266,7 +262,7 @@ SLAM & Navigation     ███████████████░░░░�
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge)](https://wakatime.com/@YOUR_USERNAME)
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge)](https://wakatime.com/@Relvixx)
 
 <!-- This gets auto-updated by GitHub Actions once WakaTime is connected -->
 <!--START_SECTION:waka-->
@@ -298,9 +294,9 @@ Other        0 hrs 9 mins    ░░░░░░░░░░░░░░░░░
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Relvixx/Relvixx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Relvixx/Relvixx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Relvixx/Relvixx/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -320,7 +316,7 @@ Other        0 hrs 9 mins    ░░░░░░░░░░░░░░░░░
   Add the workflow to generate this automatically via GitHub Actions.
 -->
 
-[![3D Contribution Calendar](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+[![3D Contribution Calendar](https://raw.githubusercontent.com/Relvixx/Relvixx/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 </div>
 
@@ -353,41 +349,21 @@ Other        0 hrs 9 mins    ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/autonomous-robot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=autonomous-robot&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
+<a href="https://github.com/Relvixx/autonomous-robot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=autonomous-robot&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/robotic-arm">
+<a href="https://github.com/Relvixx/robotic-arm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=robotic-arm&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/slam-navigation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=slam-navigation&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
+<a href="https://github.com/Relvixx/slam-navigation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=slam-navigation&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/drone-controller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=drone-controller&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
+<a href="https://github.com/Relvixx/drone-controller">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=drone-controller&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
 
 </div>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--         LEETCODE STATS — Feature #19                        -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<!--
-  ℹ️ Setup: https://github.com/JeremyTsaii/leetcode-stats-card
-  Or use: https://leetcard.jacoblin.cool/
--->
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Orbitron&ext=heatmap&border=1&border_radius=14)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-
-</div>
-
----
+----
 
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--     CURRENT LEARNING ROADMAP — Feature #20                  -->
@@ -447,7 +423,7 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
   Deploy to your profile repo with Actions + configure your metrics.yml
 -->
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg" alt="Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/Relvixx/Relvixx/main/github-metrics.svg" alt="Metrics" width="100%"/>
 
 </div>
 
@@ -461,7 +437,7 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/autonomous-robot,YOUR_USERNAME/robotic-arm,YOUR_USERNAME/slam-navigation&type=Date&theme=dark)](https://star-history.com/#YOUR_USERNAME/autonomous-robot&YOUR_USERNAME/robotic-arm&YOUR_USERNAME/slam-navigation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Relvixx/autonomous-robot,Relvixx/robotic-arm,YOUR_USERNAME/slam-navigation&type=Date&theme=dark)](https://star-history.com/#Relvixx/autonomous-robot&Relvixx/robotic-arm&Relvixx/slam-navigation&Date)
 
 </div>
 
@@ -505,7 +481,7 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
 
 > 🏙️ **See my contribution history as a 3D city skyline!**
 >
-> [![GitHub Skyline](https://img.shields.io/badge/🌆_View_My_GitHub_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117)](https://skyline.github.com/YOUR_USERNAME/2024)
+> [![GitHub Skyline](https://img.shields.io/badge/🌆_View_My_GitHub_Skyline-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117)](https://skyline.github.comRelvixx/2024)
 
 </div>
 
@@ -586,10 +562,10 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-![Snake Generation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions/workflows/snake.yml/badge.svg)
-![WakaTime Update](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions/workflows/waka-readme.yml/badge.svg)
-![Metrics Update](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions/workflows/metrics.yml/badge.svg)
-![3D Profile](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions/workflows/profile-3d.yml/badge.svg)
+![Snake Generation](https://github.com/Relvixx/Relvixx/actions/workflows/snake.yml/badge.svg)
+![WakaTime Update](https://github.com/Relvixx/Relvixx/actions/workflows/waka-readme.yml/badge.svg)
+![Metrics Update](https://github.com/Relvixx/Relvixx/actions/workflows/metrics.yml/badge.svg)
+![3D Profile](https://github.com/Relvixx/Relvixx/actions/workflows/profile-3d.yml/badge.svg)
 
 </div>
 
@@ -608,7 +584,7 @@ My approach to robotics follows a **systems thinking** methodology:
   https://github.com/jstrieb/github-stats
 -->
 
-![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14)
+![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relvixx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14)
 
 </div>
 
@@ -628,30 +604,9 @@ My approach to robotics follows a **systems thinking** methodology:
   Replace YOUR_DISCORD_USER_ID with your Discord user ID (not username).
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably+building+robots...&hideDiscrim=true)](https://discord.com/users/YOUR_DISCORD_USER_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/relvix89_85083?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably+building+robots...&hideDiscrim=true)](https://discord.com/users/relvix89_85083)
 
 </div>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--    BLOG POSTS / RSS FEED — Feature #31                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 📝 Latest Blog Posts
-
-<!--
-  ℹ️ Setup: https://github.com/gautamkrishnar/blog-post-workflow
-  Add your RSS feed URL in the workflow and it auto-updates.
--->
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [Building a ROS2 Navigation Stack from Scratch](https://YOUR_BLOG.dev/ros2-nav)
-- ⚙️ [PID Tuning: The Art and Science Behind Control Systems](https://YOUR_BLOG.dev/pid-tuning)
-- 🔬 [SLAM Demystified: How Robots Build Maps in Real-Time](https://YOUR_BLOG.dev/slam)
-- 🧠 [Training a Robot Arm with Deep Reinforcement Learning](https://YOUR_BLOG.dev/drl-arm)
-- 🚁 [My Journey Building a Autonomous Drone from Scratch](https://YOUR_BLOG.dev/drone)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -663,16 +618,16 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-chaudhari-06ba06373/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:Relvixx89@gmail.com">
 <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://YOUR_PORTFOLIO.dev" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<a href="[https://x.com/relvixx89" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 &nbsp;
 <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
@@ -738,7 +693,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-[![YOUR_NAME's Profile Summary](https://profile-summary-for-github.vercel.app/api?name=YOUR_USERNAME&theme=monokai)](https://github.com/tipsy/profile-summary-for-github)
+[![YOUR_NAME's Profile Summary](https://profile-summary-for-github.vercel.app/api?name=Relvixx&theme=monokai)](https://github.com/tipsy/profile-summary-for-github)
 
 </div>
 
@@ -752,7 +707,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-![YOUR_NAME's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&langs_count=8)
+![YOUR_NAME's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&langs_count=8)
 
 </div>
 
