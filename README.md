@@ -13,18 +13,18 @@
 <br/>
 
 <!-- 👁️ VISITOR COUNTER - Feature #2 -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Relvixx&style=for-the-badge&color=0e75b6&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <!-- 👥 FOLLOWERS BADGE - Feature #3 -->
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2196F3&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Relvixx?style=for-the-badge&logo=github&color=2196F3&label=FOLLOWERS" alt="Followers"/>
 &nbsp;
 <!-- ⭐ TOTAL STARS - Feature #4 -->
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FFD700&label=TOTAL+STARS" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Relvixx?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FFD700&label=TOTAL+STARS" alt="Stars"/>
 
 <br/><br/>
 
 <!-- 🐍 SOCIAL LINKS ROW -->
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-chaudhari-06ba06373/)" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-chaudhari-06ba06373/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:Relvixx89@gmail.com">
