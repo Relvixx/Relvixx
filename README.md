@@ -45,7 +45,7 @@
 <!--                  ABOUT ME — TERMINAL STYLE                  -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<img align="right" alt="Robotics GIF" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlodnl5M3g2bGlsYXZmNjJldGRxbGQ5eG82cW4yMzY3NzZhNXFiZyZlcD12MV9pbnRlcm5hbGdfaWZfaWQ&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Robotics GIF" width="310" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif"/>
 
 ## 🤖 `$ cat about_me.yaml`
 
