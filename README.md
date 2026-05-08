@@ -29,10 +29,7 @@
 &nbsp;
 <a href="mailto:Relvixx89@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://x.com/relvixx89"
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-&nbsp;
+
 <a href="https://discord.com/users/relvix89_85083">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 &nbsp;
@@ -129,7 +126,7 @@
 
 <div align="center">
 
-[![YOUR_NAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Relvixx&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF&radius=12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul Choudhary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Relvixx&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF&radius=12&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -349,11 +346,11 @@ Other        0 hrs 9 mins    ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/Relvixx/autonomous-robot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=autonomous-robot&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
+<a href="https://github.com/Relvixx/my-line-follower">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=my-line-follower&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
 <a href="https://github.com/Relvixx/robotic-arm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=robotic-arm&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=robotic-arm&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
 </a>
 <a href="https://github.com/Relvixx/slam-navigation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relvixx&repo=slam-navigation&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=12" />
@@ -404,7 +401,7 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
 | ⚙️ Embedded Systems Design | ARM Education | 2023 |
 | 🔬 Computer Vision Fundamentals | OpenCV University | 2023 |
 | 🚁 Drone Programming Bootcamp | Self-Paced | 2023 |
-| 🏆 National Robotics Competition — Top 10 | YOUR_ORG | 2024 |
+| 🏆 National Robotics Competition — Top 10 | RoboTech India 2024 | 2024 |
 
 </div>
 
@@ -437,7 +434,7 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Relvixx/autonomous-robot,Relvixx/robotic-arm,YOUR_USERNAME/slam-navigation&type=Date&theme=dark)](https://star-history.com/#Relvixx/autonomous-robot&Relvixx/robotic-arm&Relvixx/slam-navigation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Relvixx/my-line-follower,Relvixx/robotic-arm,Relvixx/slam-navigation&type=Date&theme=dark)](https://star-history.com/#Relvixx/my-line-follower&Relvixx/robotic-arm&Relvixx/slam-navigation&Date)
 
 </div>
 
@@ -584,7 +581,7 @@ My approach to robotics follows a **systems thinking** methodology:
   https://github.com/jstrieb/github-stats
 -->
 
-![YOUR_NAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relvixx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14)
+![Rahul Choudhary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Relvixx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14)
 
 </div>
 
@@ -618,20 +615,12 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rahul-chaudhari-06ba06373/)" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-chaudhari-06ba06373/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:Relvixx89@gmail.com">
 <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-&nbsp;
-<a href="[https://x.com/relvixx89" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-&nbsp;
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 
 <br/><br/>
 
@@ -677,7 +666,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-[![YOUR_NAME's Open Source Activity](https://contrib.rocks/image?repo=YOUR_USERNAME/autonomous-robot&repo=YOUR_USERNAME/robotic-arm&max=100&columns=14)](https://github.com/YOUR_USERNAME)
+[![Rahul Choudhary's Open Source Activity](https://contrib.rocks/image?repo=Relvixx/my-line-follower&repo=Relvixx/robotic-arm&max=100&columns=14)](https://github.com/Relvixx)
 
 > *These amazing humans have contributed to my open source projects!* 🙏
 
@@ -693,7 +682,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-[![YOUR_NAME's Profile Summary](https://profile-summary-for-github.vercel.app/api?name=Relvixx&theme=monokai)](https://github.com/tipsy/profile-summary-for-github)
+[![Rahul Choudhary's Profile Summary](https://profile-summary-for-github.vercel.app/api?name=Relvixx&theme=monokai)](https://github.com/tipsy/profile-summary-for-github)
 
 </div>
 
@@ -707,7 +696,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-![YOUR_NAME's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&langs_count=8)
+![Rahul Choudhary's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&langs_count=8)
 
 </div>
 
