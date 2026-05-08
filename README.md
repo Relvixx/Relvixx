@@ -106,10 +106,8 @@ const now = {
 
 <div align="center">
 
-<a href="https://github.com/Relvixx">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Relvixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&ring_color=00FFFF"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&card_width=400"/>
-</a>
+[![Relvixx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Relvixx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=false&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&ring_color=00FFFF)](https://github.com/Relvixx)
+[![Relvixx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Relvixx&layout=compact&langs_count=12&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&border_radius=14&card_width=400)](https://github.com/Relvixx)
 
 <br/>
 
