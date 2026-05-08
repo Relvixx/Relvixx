@@ -30,7 +30,7 @@
 <a href="mailto:Relvixx89@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://discord.com/users/relvix89_85083">
+<a href="https://discord.com/users/1492487939698069524">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 &nbsp;
 
@@ -595,13 +595,7 @@ My approach to robotics follows a **systems thinking** methodology:
 
 <div align="center">
 
-<!--
-  ℹ️ Setup: https://github.com/nicepkg/nice-dcbadge
-  Or Lanyard: https://api.lanyard.rest/
-  Replace YOUR_DISCORD_USER_ID with your Discord user ID (not username).
--->
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/relvix89_85083?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably+building+robots...&hideDiscrim=true)](https://discord.com/users/relvix89_85083)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1492487939698069524?theme=dark&bg=0d1117&borderRadius=14px&idleMessage=Probably+building+robots...&hideDiscrim=true)](https://discord.com/users/1492487939698069524)
 
 </div>
 
