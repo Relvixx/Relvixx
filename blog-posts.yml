@@ -1,0 +1,46 @@
+name: Auto-Update Blog & YouTube Feed
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Runs every day at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── STEP 1: Update Blog Posts from RSS ──────────────────────
+      - name: 📝 Update Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 🔧 REPLACE the feed_list below with your actual blog RSS URL
+          # Common formats:
+          #   Hashnode:  https://YOUR_USERNAME.hashnode.dev/rss.xml
+          #   Dev.to:    https://dev.to/feed/YOUR_USERNAME
+          #   Medium:    https://medium.com/feed/@YOUR_MEDIUM_USERNAME
+          #   Substack:  https://YOUR_SUBSTACK.substack.com/feed
+          feed_list: "https://YOUR_USERNAME.hashnode.dev/rss.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update latest blog posts [skip ci]"
+          template: "- [$title]($url)"
+
+      # ── STEP 2: Update YouTube Latest Videos ────────────────────
+      - name: 📺 Update Latest YouTube Videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # 🔧 REPLACE with your actual YouTube channel RSS feed URL
+          # Format: https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID
+          # Find your channel ID: YouTube Studio → Settings → Channel → Advanced
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_YT_CHANNEL_ID"
+          max_post_count: 3
+          readme_path: "./README.md"
+          comment_tag_name: "YOUTUBE-LIST"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update latest youtube videos [skip ci]"
+          template: "- 📺 [$title]($url)"

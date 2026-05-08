@@ -82,6 +82,22 @@
 
 ---
 
+## 🟢 Right Now
+
+```javascript
+const now = {
+  building   : "🤖 Autonomous Ground Vehicle (ROS2 + LiDAR)",
+  learning   : "📚 Deep Reinforcement Learning for Robotics",
+  listening  : "🎵 Lo-fi beats while debugging PCBs",
+  reading    : "📖 Probabilistic Robotics — Thrun, Burgard & Fox",
+  competing  : "🏆 National Robotics Championship 2025",
+  seeking    : "🔭 Research internship in autonomous systems",
+  lastUpdated: "May 2026"
+}
+```
+
+---
+
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                GITHUB STATS — Feature #5,6,7                -->
 <!-- ████████████████████████████████████████████████████████████ -->
@@ -104,6 +120,16 @@
 
 ---
 
+## 🔥 Contribution Heatmap
+
+<div align="center">
+
+[![Relvixx's github activity](https://ghchart.rshah.org/00FFFF/Relvixx)](https://github.com/Relvixx)
+
+</div>
+
+---
+
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--           GITHUB TROPHIES - Feature #9                      -->
 <!-- ████████████████████████████████████████████████████████████ -->
@@ -114,6 +140,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Relvixx&theme=tokyonight&row=2&column=5&margin-h=12&margin-w=12&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+## 🎖️ GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Relvixx&theme=tokyonight&no-frame=false&row=1&column=7&margin-h=8&margin-w=8" width="100%" alt="Achievements"/>
 </div>
 
 ---
@@ -443,21 +477,28 @@ LEGEND:  ✅ Done  |  🔄 In Progress  |  📋 Planned
 
 ---
 
+## 🏷️ My Digital Badge Collection
+
+<div align="center">
+
+<!-- Setup: Go to https://holopin.io → sign in with GitHub → claim stickers → replace YOUR_HOLOPIN_USERNAME -->
+
+[![@Relvixx's Holopin board](https://holopin.me/Relvixx)](https://holopin.io/@Relvixx)
+
+</div>
+
+---
+
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--      GITHUB METRICS (Lowlighter) — Feature #22              -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
-## 📐 Detailed GitHub Metrics
+## 📐 Deep GitHub Metrics
 
 <div align="center">
-
-<!--
-  ℹ️ Setup: https://github.com/lowlighter/metrics
-  Deploy to your profile repo with Actions + configure your metrics.yml
--->
-
-<img src="https://raw.githubusercontent.com/Relvixx/Relvixx/main/github-metrics.svg" alt="Metrics" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Relvixx/Relvixx/main/github-metrics.svg" alt="Full GitHub Metrics" width="100%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/Relvixx/Relvixx/main/github-metrics-iso.svg" alt="Isometric Calendar" width="100%"/>
 </div>
 
 ---
@@ -688,6 +729,20 @@ My approach to robotics follows a **systems thinking** methodology:
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🤖 Pushed 3 commits to `Relvixx/my-line-follower`
+2. ⭐ Starred `ros2/rclcpp`
+3. 🔀 Opened PR in `Relvixx/robotic-arm`
+4. 💬 Commented on issue in `Relvixx/slam-navigation`
+5. 🎉 Merged PR in `Relvixx/drone-controller`
+<!--END_SECTION:activity-->
+
+> ⚡ *This section auto-updates every 30 minutes via GitHub Actions*
+
+---
+
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--  OPEN SOURCE CONTRIBUTION BADGE — Feature #34               -->
 <!-- ████████████████████████████████████████████████████████████ -->
@@ -768,5 +823,8 @@ My approach to robotics follows a **systems thinking** methodology:
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-00FFFF?style=for-the-badge&logo=github&logoColor=white)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-FF6B6B?style=for-the-badge)
 ![Profile Complete](https://img.shields.io/badge/Profile-100%25%20LEGENDARY-gold?style=for-the-badge&logo=github-actions&logoColor=white)
+![Auto Updated](https://img.shields.io/badge/Auto--Updated-✅%20Live-00FFFF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Workflows](https://img.shields.io/badge/GitHub%20Actions-4%20Active-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Metrics](https://img.shields.io/badge/Metrics-Daily-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
 
 </div>

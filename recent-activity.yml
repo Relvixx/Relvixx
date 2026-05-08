@@ -1,0 +1,27 @@
+name: Auto-Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Runs every 30 minutes — keeps activity very fresh
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: ⚡ Update Recent GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity [skip ci]"
+          MAX_LINES: 10             # Number of activity lines to show
+          README_FILE: "./README.md"
+          IGNORE_REPOS: ""          # Comma-separated repos to ignore e.g. "YOUR_USERNAME/YOUR_USERNAME"
