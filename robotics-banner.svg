@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .trace-a { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards; }
+      .trace-b { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 0.4s; }
+      .trace-c { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 0.8s; }
+      .trace-d { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 1.2s; }
+      .trace-r1 { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 0.2s; }
+      .trace-r2 { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 0.6s; }
+      .trace-r3 { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 1s; }
+      .trace-r4 { stroke: #00FFFF; stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+        animation: draw-a 2.5s ease forwards 1.4s; }
+      .trace-dim { stroke: #003344; stroke-width: 1; fill: none;
+        stroke-dasharray: 300; stroke-dashoffset: 300;
+        animation: draw-a 3s ease forwards 1s; }
+      .node { fill: #00FFFF; animation: pulse 2.4s ease-in-out infinite; }
+      .node-d { fill: #00FFFF; animation: pulse 2.4s ease-in-out infinite; }
+      .nd0 { animation-delay: 0s; }
+      .nd1 { animation-delay: 0.3s; }
+      .nd2 { animation-delay: 0.6s; }
+      .nd3 { animation-delay: 0.9s; }
+      .nd4 { animation-delay: 1.2s; }
+      .nd5 { animation-delay: 1.5s; }
+      .nd6 { animation-delay: 1.8s; }
+      .nd7 { animation-delay: 2.1s; }
+      .txt-main { fill: #FFFFFF; font-family: 'Courier New', monospace; font-weight: bold;
+        font-size: 34px; letter-spacing: 5px;
+        animation: fadein 1s ease forwards 1.8s; opacity: 0; }
+      .txt-sub { fill: #00FFFF; font-family: 'Courier New', monospace;
+        font-size: 12px; letter-spacing: 9px;
+        animation: fadein 1s ease forwards 2.2s; opacity: 0; }
+      .txt-tag { fill: #1C4A52; font-family: 'Courier New', monospace;
+        font-size: 10px; letter-spacing: 3px;
+        animation: fadein 1s ease forwards 2.6s; opacity: 0; }
+      .cursor { fill: #00FFFF; animation: blink 1s step-end infinite 3s; opacity: 0; }
+      .bracket { stroke: #00FFFF; stroke-width: 1.5; fill: none; opacity: 0.6;
+        animation: fadein 0.5s ease forwards 0.1s; opacity: 0; }
+      .bottom-trace { stroke: #00FFFF; stroke-width: 0.8; fill: none; opacity: 0.25;
+        animation: fadein 1s ease forwards 2s; opacity: 0; }
+      .scanline { animation: scan 5s linear infinite 3s; opacity: 0; }
+
+      @keyframes draw-a {
+        from { stroke-dashoffset: 400; opacity: 0; }
+        5%   { opacity: 1; }
+        to   { stroke-dashoffset: 0; opacity: 1; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; r: 4; }
+        50%       { opacity: 0.25; r: 7; }
+      }
+      @keyframes fadein {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+      @keyframes scan {
+        0%   { transform: translateX(-30px); opacity: 0; }
+        5%   { opacity: 0.12; }
+        95%  { opacity: 0.12; }
+        100% { transform: translateX(930px); opacity: 0; }
+      }
+    </style>
+
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="0.7" fill="#161C24"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="200"/>
+  <rect width="900" height="200" fill="url(#dots)"/>
+
+  <!-- ── LEFT CIRCUIT TRACES ── -->
+  <path class="trace-a" d="M0,45 H130 V85 H195"/>
+  <path class="trace-b" d="M0,85 H65 V125 H130 V165 H195"/>
+  <path class="trace-c" d="M0,125 H95 V55 H195"/>
+  <path class="trace-d" d="M0,165 H50 V105 H195"/>
+  <path class="trace-dim" d="M30,10 V35 H80 V55"/>
+  <path class="trace-dim" d="M60,190 V175 H110 V155"/>
+
+  <!-- LEFT nodes -->
+  <circle class="node nd1" cx="130" cy="45" r="4"/>
+  <circle class="node nd2" cx="65"  cy="85" r="3.5"/>
+  <circle class="node nd3" cx="130" cy="85" r="5"/>
+  <circle class="node nd0" cx="95"  cy="125" r="3"/>
+  <circle class="node nd4" cx="50"  cy="165" r="4"/>
+  <circle class="node nd5" cx="80"  cy="55"  r="3"/>
+  <circle class="node nd6" cx="110" cy="155" r="3"/>
+
+  <!-- ── RIGHT CIRCUIT TRACES ── -->
+  <path class="trace-r1" d="M900,45 H770 V85 H705"/>
+  <path class="trace-r2" d="M900,85 H835 V125 H770 V165 H705"/>
+  <path class="trace-r3" d="M900,125 H805 V55 H705"/>
+  <path class="trace-r4" d="M900,165 H850 V105 H705"/>
+  <path class="trace-dim" d="M870,10 V35 H820 V55"/>
+  <path class="trace-dim" d="M840,190 V175 H790 V155"/>
+
+  <!-- RIGHT nodes -->
+  <circle class="node nd2" cx="770" cy="45" r="4"/>
+  <circle class="node nd3" cx="835" cy="85" r="3.5"/>
+  <circle class="node nd4" cx="770" cy="85" r="5"/>
+  <circle class="node nd1" cx="805" cy="125" r="3"/>
+  <circle class="node nd5" cx="850" cy="165" r="4"/>
+  <circle class="node nd0" cx="820" cy="55"  r="3"/>
+  <circle class="node nd7" cx="790" cy="155" r="3"/>
+
+  <!-- ── CENTRE GEAR (SMIL rotation — reliable in SVGs) ── -->
+  <g transform="translate(450,72)">
+    <!-- Outer gear teeth (8 teeth) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="10s" repeatCount="indefinite"/>
+      <polygon points="0,-28 4,-22 4,-18 0,-14 -4,-18 -4,-22"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.7"/>
+      <polygon points="28,0 22,4 18,4 14,0 18,-4 22,-4"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.7"/>
+      <polygon points="0,28 -4,22 -4,18 0,14 4,18 4,22"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.7"/>
+      <polygon points="-28,0 -22,-4 -18,-4 -14,0 -18,4 -22,4"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.7"/>
+      <polygon points="20,-20 16,-14 13,-13 14,-16 18,-19 22,-22"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.5"/>
+      <polygon points="20,20 14,16 13,13 16,14 19,18 22,22"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.5"/>
+      <polygon points="-20,20 -16,14 -13,13 -14,16 -18,19 -22,22"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.5"/>
+      <polygon points="-20,-20 -22,-22 -18,-19 -14,-16 -13,-13 -16,-14"
+               fill="none" stroke="#00FFFF" stroke-width="1.2" opacity="0.5"/>
+    </g>
+    <!-- Gear rings -->
+    <circle r="24" fill="none" stroke="#00FFFF" stroke-width="1.5" opacity="0.5"/>
+    <circle r="18" fill="none" stroke="#00FFFF" stroke-width="1" opacity="0.3"/>
+    <!-- Inner counter-rotating ring -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        from="360" to="0" dur="6s" repeatCount="indefinite"/>
+      <circle r="12" fill="none" stroke="#00FFFF" stroke-width="1.5" opacity="0.8"
+              stroke-dasharray="8 5"/>
+    </g>
+    <!-- Centre dot -->
+    <circle r="5" fill="#00FFFF" opacity="0.9"/>
+    <circle r="2.5" fill="#0D1117"/>
+  </g>
+
+  <!-- ── CENTRE TEXT ── -->
+  <text class="txt-main" x="450" y="126" text-anchor="middle">ROBOTICS</text>
+  <text class="txt-sub"  x="450" y="152" text-anchor="middle">&amp; AUTOMATION ENGINEER</text>
+  <text class="txt-tag"  x="450" y="174" text-anchor="middle">BUILDING MACHINES THAT THINK AND ACT</text>
+  <text class="cursor"   x="672" y="174" font-family="'Courier New',monospace" font-size="10">_</text>
+
+  <!-- ── BOTTOM CIRCUIT BORDER ── -->
+  <path class="bottom-trace"
+    d="M200,194 H310 V186 H380 V194 H450 V186 H520 V194 H590 V186 H660 V194 H700"/>
+
+  <!-- ── CORNER BRACKETS ── -->
+  <path class="bracket" d="M12,12 H52 V28"/>
+  <path class="bracket" d="M888,12 H848 V28"/>
+  <path class="bracket" d="M12,188 H52 V172"/>
+  <path class="bracket" d="M888,188 H848 V172"/>
+
+  <!-- ── SWEEP SCANLINE ── -->
+  <rect class="scanline" x="0" y="0" width="22" height="200" fill="#00FFFF"/>
+</svg>

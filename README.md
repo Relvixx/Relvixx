@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- 🌊 CAPSULE RENDER - ANIMATED WAVING HEADER -->
-[![Robotics & Automation Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24,30&height=220&section=header&text=%E2%9A%99%EF%B8%8F%20ROBOTICS%20%26%20AUTOMATION&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineering%20Intelligence%20into%20Machines&descSize=18&descAlignY=58&descColor=00FFFF)](#)
+<img src="C:\Volume D\My Coding Universe\git hub profile\Relvixx\robotics-banner.svg" height="300" width="300">
 
 <!-- ⌨️ ANIMATED TYPING SVG - Feature #1 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=55&lines=🤖+Robotics+%26+Automation+Engineer;⚙️+Building+Machines+That+Think+%26+Act;🔬+Merging+Hardware+with+Intelligent+Software;🚀+Turning+Science+Fiction+into+Engineering+Reality;🧠+Control+Theory+%7C+Embedded+Systems+%7C+AI%2FML;🌍+Automating+the+World%2C+One+Bot+at+a+Time)](https://git.io/typing-svg)
