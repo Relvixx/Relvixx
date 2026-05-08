@@ -263,14 +263,50 @@ SLAM & Navigation     ███████████████░░░░�
 
 <!-- This gets auto-updated by GitHub Actions once WakaTime is connected -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 146.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 81 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
 ```text
-C++          12 hrs 42 mins  ████████████░░░░░░░░░  42.1%
-Python       9 hrs 18 mins   ████████░░░░░░░░░░░░░  30.8%
-C            4 hrs 5 mins    ████░░░░░░░░░░░░░░░░░  13.6%
-Bash         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   7.2%
-YAML         1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░   5.8%
-Other        0 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░   0.5%
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/05/2026 16:06:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
