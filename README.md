@@ -301,13 +301,13 @@ SLAM & Navigation     ███████████████░░░░�
 
 **🐱 My GitHub Data** 
 
-> 📦 146.7 kB Used in GitHub's Storage 
+> 📦 162.5 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 99 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -325,11 +325,11 @@ Antigravity              28 mins             ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -339,7 +339,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 20:13:25 UTC
+ Last Updated on 12/05/2026 20:13:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
