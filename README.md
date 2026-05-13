@@ -295,13 +295,13 @@ SLAM & Navigation     ███████████████░░░░�
 
 <!-- This gets auto-updated by GitHub Actions once WakaTime is connected -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.5 kB Used in GitHub's Storage 
+> 📦 162.6 kB Used in GitHub's Storage 
  > 
 > 🏆 99 Contributions in the Year 2026
  > 
@@ -311,17 +311,6 @@ SLAM & Navigation     ███████████████░░░░�
  > 
 > 🔑 5 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 17 mins             ████████████████░░░░░░░░░   63.00 % 
-YAML                     10 mins             █████████░░░░░░░░░░░░░░░░   37.00 % 
-
-🔥 Editors: 
-Antigravity              28 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -339,7 +328,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 20:13:50 UTC
+ Last Updated on 13/05/2026 20:17:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
