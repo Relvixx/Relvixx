@@ -277,19 +277,19 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 146.3 kB Used in GitHub's Storage 
+> 📦 162.5 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -297,20 +297,22 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ████████████░░░░░░░░░░░░░   48.79 % 
+Other                    7 mins              ██████████░░░░░░░░░░░░░░░   41.95 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -320,7 +322,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 16:06:17 UTC
+ Last Updated on 16/05/2026 19:38:07 UTC
 <!--END_SECTION:waka-->
 
 </div>
