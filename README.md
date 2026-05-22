@@ -277,9 +277,7 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%206%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -297,8 +295,8 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ██████████████████████░░░   86.32 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Markdown                 1 hr 12 mins        ███████████████████████░░   91.62 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 🔥 Editors: 
 Antigravity              1 hr 18 mins        █████████████████████████   100.00 % 
@@ -321,7 +319,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:17:58 UTC
+ Last Updated on 22/05/2026 20:17:20 UTC
 <!--END_SECTION:waka-->
 
 </div>
