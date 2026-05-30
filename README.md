@@ -304,12 +304,11 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             █████████████░░░░░░░░░░░░   51.24 % 
-JavaScript               31 mins             ████████████░░░░░░░░░░░░░   48.38 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 33 mins             █████████████████████████   99.26 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Antigravity              1 hr 5 mins         █████████████████████████   100.00 % 
+Antigravity              33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -329,7 +328,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 20:41:15 UTC
+ Last Updated on 30/05/2026 19:47:23 UTC
 <!--END_SECTION:waka-->
 
 </div>
