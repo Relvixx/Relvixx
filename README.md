@@ -290,7 +290,7 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 162.6 kB Used in GitHub's Storage 
+> 📦 162.7 kB Used in GitHub's Storage 
  > 
 > 🏆 109 Contributions in the Year 2026
  > 
@@ -304,11 +304,10 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             █████████████████████████   99.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -328,7 +327,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 19:47:51 UTC
+ Last Updated on 01/06/2026 21:47:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
