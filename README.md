@@ -292,11 +292,11 @@ const now = {
 
 > 📦 162.9 kB Used in GitHub's Storage 
  > 
-> 🏆 109 Contributions in the Year 2026
+> 🏆 111 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -313,11 +313,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -327,7 +327,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2026 21:05:54 UTC
+ Last Updated on 11/06/2026 20:41:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
