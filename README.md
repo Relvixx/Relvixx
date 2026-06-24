@@ -290,13 +290,13 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 163.2 kB Used in GitHub's Storage 
+> 📦 163.3 kB Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -319,8 +319,8 @@ Antigravity IDE          3 hrs 17 mins       ███████████�
 ```text
 Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
 TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
@@ -331,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 20:30:27 UTC
+ Last Updated on 24/06/2026 20:16:00 UTC
 <!--END_SECTION:waka-->
 
 </div>
