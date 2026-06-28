@@ -304,14 +304,14 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-JavaScript               1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+TypeScript               1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+JavaScript               1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 29 mins       █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -331,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 19:50:50 UTC
+ Last Updated on 28/06/2026 19:51:22 UTC
 <!--END_SECTION:waka-->
 
 </div>
