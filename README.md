@@ -284,7 +284,7 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -304,14 +304,14 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-HTML                     48 mins             █████████░░░░░░░░░░░░░░░░   35.92 % 
-JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Git Config               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   40.16 % 
+HTML                     48 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 16 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -331,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:22:04 UTC
+ Last Updated on 08/07/2026 20:00:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
