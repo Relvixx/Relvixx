@@ -284,15 +284,15 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 163.9 kB Used in GitHub's Storage 
+> 📦 164.1 kB Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2026
+> 🏆 159 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -304,22 +304,24 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Text                     9 mins              ████████████░░░░░░░░░░░░░   47.15 % 
-Python                   8 mins              ███████████░░░░░░░░░░░░░░   42.26 % 
-HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   42.63 % 
+Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Text                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Antigravity IDE          20 mins             █████████████████████████   100.00 % 
+Antigravity IDE          57 mins             █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -329,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:39:27 UTC
+ Last Updated on 19/07/2026 19:38:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
