@@ -284,13 +284,13 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.1 kB Used in GitHub's Storage 
+> 📦 164.2 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2026
  > 
@@ -304,14 +304,14 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   42.63 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Text                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               3 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.84 % 
+Markdown                 2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Antigravity IDE          57 mins             █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -331,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 19:38:21 UTC
+ Last Updated on 20/07/2026 20:03:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
