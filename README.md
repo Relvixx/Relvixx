@@ -284,6 +284,8 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2012%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -298,6 +300,20 @@ const now = {
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 23 mins       █████████████░░░░░░░░░░░░   51.30 % 
+Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+Antigravity IDE          6 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -315,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:32 UTC
+ Last Updated on 25/07/2026 19:40:53 UTC
 <!--END_SECTION:waka-->
 
 </div>
