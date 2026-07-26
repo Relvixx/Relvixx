@@ -290,7 +290,7 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 164.2 kB Used in GitHub's Storage 
+> 📦 164.3 kB Used in GitHub's Storage 
  > 
 > 🏆 160 Contributions in the Year 2026
  > 
@@ -304,14 +304,14 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       █████████████░░░░░░░░░░░░   51.30 % 
-Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               3 hrs 23 mins       ██████████████░░░░░░░░░░░   56.62 % 
+Markdown                 1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 36 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -331,7 +331,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:40:53 UTC
+ Last Updated on 26/07/2026 19:42:25 UTC
 <!--END_SECTION:waka-->
 
 </div>
