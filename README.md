@@ -284,15 +284,11 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.3 kB Used in GitHub's Storage 
+> 📦 164.4 kB Used in GitHub's Storage 
  > 
 > 🏆 160 Contributions in the Year 2026
  > 
@@ -302,38 +298,6 @@ const now = {
  > 
 > 🔑 5 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Antigravity IDE          0 secs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 24,104 Input Tokens, 170 Output Tokens
-
-💵 $0.07 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 1,673 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -351,7 +315,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:02:18 UTC
+ Last Updated on 28/07/2026 19:58:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
