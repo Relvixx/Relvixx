@@ -292,13 +292,13 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 164.3 kB Used in GitHub's Storage 
+> 📦 164.4 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 165 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -306,20 +306,20 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 mins             ████████████░░░░░░░░░░░░░   46.26 % 
-Python                   10 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Other                    9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown                 18 mins             █████████████░░░░░░░░░░░░   53.84 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Antigravity IDE          39 mins             █████████████████████████   100.00 % 
+Antigravity IDE          33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (100.0%)
+⏱ AI Coding Time: 33 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -327,25 +327,25 @@ Antigravity IDE          39 mins             ███████████�
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 793 characters per prompt
+📄 Detailed Prompter — average 1,302 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Python** 
 
 ```text
-TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-Python                   7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -355,7 +355,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:50:34 UTC
+ Last Updated on 30/07/2026 19:59:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
