@@ -284,15 +284,15 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.4 kB Used in GitHub's Storage 
+> 📦 164.5 kB Used in GitHub's Storage 
  > 
 > 🏆 165 Contributions in the Year 2026
  > 
@@ -306,34 +306,32 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 mins             █████████████░░░░░░░░░░░░   53.84 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 20 mins             █████████████████░░░░░░░░   66.24 % 
+Other                    9 mins              ████████░░░░░░░░░░░░░░░░░   30.84 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Antigravity IDE          33 mins             █████████████████████████   100.00 % 
+Antigravity IDE          31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 31 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 53,148 Input Tokens, 728 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.17 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 3 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,302 characters per prompt
+📚 Verbose Prompter — average 2,434 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -355,7 +353,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 19:59:30 UTC
+ Last Updated on 31/07/2026 20:00:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
