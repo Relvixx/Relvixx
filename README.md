@@ -292,9 +292,9 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 164.5 kB Used in GitHub's Storage 
+> 📦 165.9 kB Used in GitHub's Storage 
  > 
-> 🏆 165 Contributions in the Year 2026
+> 🏆 172 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -336,14 +336,14 @@ Antigravity IDE          31 mins             ███████████�
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
 TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
+Python                   7 repos             █████████░░░░░░░░░░░░░░░░   35.00 % 
 HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -353,7 +353,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:41:29 UTC
+ Last Updated on 04/08/2026 20:07:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
