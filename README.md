@@ -306,38 +306,37 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.83 % 
-CSS                      3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Markdown                 3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               7 hrs 1 min         █████████████░░░░░░░░░░░░   50.69 % 
+CSS                      3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Markdown                 1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+SQL                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 19 mins      █████████████████████████   100.00 % 
+Antigravity IDE          13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 8 mins (98.71%)
+⏱ AI Coding Time: 13 hrs 39 mins (98.58%)
 
 ✍️ 1,898 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 30,347 Input Tokens, 1,811 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 149 AI Prompts
+🧠 6 AI Sessions, 131 AI Prompts
 
 Gemini                   1,352 lines         ████████████████░░░░░░░░░   64.26 % 
 Opus                     738 lines           █████████░░░░░░░░░░░░░░░░   35.08 % 
 Gpt-Oss                  14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 1,385 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📄 Detailed Prompter — average 1,243 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
 🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
@@ -358,7 +357,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:32:46 UTC
+ Last Updated on 14/08/2026 19:26:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
