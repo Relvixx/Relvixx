@@ -288,7 +288,7 @@ const now = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -306,40 +306,40 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-Python                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+TypeScript               1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.60 % 
+Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 50 mins       █████████████████████████   98.77 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Antigravity IDE          2 hrs 53 mins       █████████████████████████   98.37 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (97.43%)
+⏱ AI Coding Time: 2 hrs 50 mins (96.6%)
 
-✍️ 517 lines written by AI, 93 lines written by hand (84.75% AI-written)
+✍️ 496 lines written by AI, 93 lines written by hand (84.21% AI-written)
 
 🔤 387,932 Input Tokens, 6,236 Output Tokens
 
 💵 $1.78 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 71 AI Prompts
+🧠 9 AI Sessions, 62 AI Prompts
 
-Github-Copilot           308 lines           ████████████░░░░░░░░░░░░░   46.04 % 
-Gemini                   196 lines           ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Opus                     165 lines           ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Github-Copilot           308 lines           ████████████░░░░░░░░░░░░░   47.53 % 
+Gemini                   196 lines           ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Opus                     144 lines           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.75% of written lines came from AI
-📄 Detailed Prompter — average 525 characters per prompt
+🤖 AI-Driven — 84.21% of written lines came from AI
+📝 Concise Prompter — average 400 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.2% of changed lines were hand-edited
+🚀 High AI Trust — 12.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -359,7 +359,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:11:21 UTC
+ Last Updated on 02/09/2026 21:11:34 UTC
 <!--END_SECTION:waka-->
 
 </div>
