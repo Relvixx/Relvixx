@@ -121,6 +121,8 @@ const now = {
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Tnmy4069/ecell2025-recuritement-system/pull/1) in [Tnmy4069/ecell2025-recuritement-system](https://github.com/Tnmy4069/ecell2025-recuritement-system)
+2. 💪 Opened PR [#1](https://github.com/Tnmy4069/ecell2025-recuritement-system/pull/1) in [Tnmy4069/ecell2025-recuritement-system](https://github.com/Tnmy4069/ecell2025-recuritement-system)
 <!--END_SECTION:activity-->
 
 ---
