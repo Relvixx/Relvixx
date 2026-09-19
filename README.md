@@ -286,9 +286,9 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -296,7 +296,7 @@ const now = {
 
 > 📦 283.2 kB Used in GitHub's Storage 
  > 
-> 🏆 303 Contributions in the Year 2026
+> 🏆 304 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -308,39 +308,39 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
-JavaScript               3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Markdown                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-CSS                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+TypeScript               4 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
+JavaScript               3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Markdown                 1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 14 mins       █████████████████░░░░░░░░   66.99 % 
-Codex CLI                4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Antigravity IDE          8 hrs 55 mins       ███████████████████░░░░░░   76.15 % 
+Codex CLI                2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 42 mins (95.23%)
+⏱ AI Coding Time: 11 hrs 8 mins (95.0%)
 
-✍️ 6,341 lines written by AI, 12 lines written by hand (99.81% AI-written)
+✍️ 6,316 lines written by AI, 12 lines written by hand (99.81% AI-written)
 
-🔤 6,641,468 Input Tokens, 644,928 Output Tokens
+🔤 6,415,473 Input Tokens, 603,935 Output Tokens
 
-💵 $149.08 Estimated AI Cost This Week
+💵 $152.12 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 106 AI Prompts
+🧠 33 AI Sessions, 103 AI Prompts
 
-Spark                    4,005 lines         ███████████████░░░░░░░░░░   60.61 % 
-GPT                      2,037 lines         ████████░░░░░░░░░░░░░░░░░   30.83 % 
-Gemini                   481 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Spark                    4,098 lines         ████████████████░░░░░░░░░   62.25 % 
+GPT                      1,916 lines         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Gemini                   484 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 Opus                     85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 3,888 characters per prompt
+📚 Verbose Prompter — average 2,955 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
@@ -348,11 +348,11 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -362,7 +362,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:04:26 UTC
+ Last Updated on 19/09/2026 20:53:00 UTC
 <!--END_SECTION:waka-->
 
 </div>
