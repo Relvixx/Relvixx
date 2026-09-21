@@ -308,41 +308,41 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.80 % 
-JavaScript               2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-CSS                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
+JavaScript               2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+CSS                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 24 mins      ███████████████████████░░   91.44 % 
-Codex CLI                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Antigravity IDE          9 hrs 54 mins       ███████████████████████░░   91.97 % 
+Codex CLI                51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 47 mins (94.85%)
+⏱ AI Coding Time: 10 hrs 11 mins (94.56%)
 
-✍️ 7,749 lines written by AI, 12 lines written by hand (99.85% AI-written)
+✍️ 7,318 lines written by AI, 12 lines written by hand (99.84% AI-written)
 
-🔤 7,324,566 Input Tokens, 668,668 Output Tokens
+🔤 7,186,811 Input Tokens, 653,018 Output Tokens
 
-💵 $273.49 Estimated AI Cost This Week
+💵 $271.89 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 98 AI Prompts
+🧠 30 AI Sessions, 81 AI Prompts
 
-Spark                    6,339 lines         ████████████████████░░░░░   79.18 % 
-GPT                      1,098 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Gemini                   484 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Opus                     85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Spark                    6,339 lines         █████████████████████░░░░   85.21 % 
+GPT                      908 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Gemini                   107 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Opus                     85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 3,174 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 3,181 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -362,7 +362,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:58:12 UTC
+ Last Updated on 21/09/2026 22:05:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
