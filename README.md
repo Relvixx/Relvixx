@@ -308,38 +308,37 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               37 mins             ██████████░░░░░░░░░░░░░░░   40.01 % 
-HTML                     33 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
-JavaScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+HTML                     33 mins             ██████████░░░░░░░░░░░░░░░   39.75 % 
+TypeScript               26 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
+JavaScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 34 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (91.08%)
+⏱ AI Coding Time: 1 hr 14 mins (89.89%)
 
 ✍️ 117 lines written by AI, 1 lines written by hand (99.15% AI-written)
 
-🔤 1,919,775 Input Tokens, 94,748 Output Tokens
+🔤 1,692,104 Input Tokens, 77,065 Output Tokens
 
-💵 $45.11 Estimated AI Cost This Week
+💵 $37.68 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
 Spark                    117 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.15% of written lines came from AI
-📚 Verbose Prompter — average 2,368 characters per prompt
+📚 Verbose Prompter — average 2,153 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 1.68% of changed lines were hand-edited
 ```
@@ -361,7 +360,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:29:18 UTC
+ Last Updated on 09/10/2026 22:47:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
