@@ -294,7 +294,7 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 285.7 kB Used in GitHub's Storage 
+> 📦 285.6 kB Used in GitHub's Storage 
  > 
 > 🏆 319 Contributions in the Year 2026
  > 
@@ -308,39 +308,37 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 mins             ██████████░░░░░░░░░░░░░░░   40.67 % 
-Text                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Batchfile                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Text                     11 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
+Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Batchfile                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Antigravity IDE          46 mins             █████████████████████████   100.00 % 
+Antigravity IDE          25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (77.21%)
+⏱ AI Coding Time: 15 mins (58.58%)
 
-✍️ 1,100 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 365 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,258,941 Input Tokens, 94,098 Output Tokens
+🔤 334,695 Input Tokens, 28,413 Output Tokens
 
-💵 $59.89 Estimated AI Cost This Week
+💵 $1.59 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Spark                    738 lines           █████████████████░░░░░░░░   66.91 % 
-Opus                     365 lines           ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     365 lines           █████████████████████████   100.00 % 
 Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,982 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,148 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -361,7 +359,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:50:45 UTC
+ Last Updated on 15/10/2026 21:35:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
