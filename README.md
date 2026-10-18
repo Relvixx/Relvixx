@@ -290,11 +290,11 @@ const now = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 285.7 kB Used in GitHub's Storage 
+> 📦 285.8 kB Used in GitHub's Storage 
  > 
 > 🏆 319 Contributions in the Year 2026
  > 
@@ -308,38 +308,16 @@ const now = {
 
 ```text
 💬 Programming Languages: 
-Text                     11 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
-Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Batchfile                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (58.58%)
-
-✍️ 365 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 334,695 Input Tokens, 28,413 Output Tokens
-
-💵 $1.59 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Opus                     365 lines           █████████████████████████   100.00 % 
-Antigravity-Ide          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,148 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -359,7 +337,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:47:03 UTC
+ Last Updated on 18/10/2026 20:56:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
