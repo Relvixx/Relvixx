@@ -294,7 +294,7 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 285.9 kB Used in GitHub's Storage 
+> 📦 286.0 kB Used in GitHub's Storage 
  > 
 > 🏆 319 Contributions in the Year 2026
  > 
@@ -323,11 +323,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -337,7 +337,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 22:31:57 UTC
+ Last Updated on 20/10/2026 21:46:32 UTC
 <!--END_SECTION:waka-->
 
 </div>
