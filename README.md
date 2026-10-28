@@ -286,9 +286,9 @@ const now = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -304,46 +304,6 @@ const now = {
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       █████████████████░░░░░░░░   66.64 % 
-Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-🔥 Editors: 
-Antigravity IDE          12 hrs 2 mins       █████████████████████████   98.19 % 
-Copilot CLI              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 14 mins (99.88%)
-
-✍️ 11,311 lines written by AI, 1 lines written by hand (99.99% AI-written)
-
-🔤 13,957,671 Input Tokens, 903,937 Output Tokens
-
-💵 $1101.78 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 24 AI Prompts
-
-Gemini                   9,894 lines         █████████████████████░░░░   84.79 % 
-Opus                     1,223 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Nemotron                 552 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 941 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -361,7 +321,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:28:05 UTC
+ Last Updated on 28/10/2026 22:44:56 UTC
 <!--END_SECTION:waka-->
 
 </div>
