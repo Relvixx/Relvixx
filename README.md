@@ -304,6 +304,45 @@ const now = {
  > 
 > 🔑 8 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               8 hrs 10 mins       █████████████████░░░░░░░░   69.18 % 
+Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+
+🔥 Editors: 
+Antigravity IDE          11 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 47 mins (99.87%)
+
+✍️ 11,300 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 13,807,778 Input Tokens, 896,489 Output Tokens
+
+💵 $1101.41 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 19 AI Prompts
+
+Gemini                   9,882 lines         █████████████████████░░░░   84.77 % 
+Opus                     1,223 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Nemotron                 552 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 1,167 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -321,7 +360,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:44:56 UTC
+ Last Updated on 29/10/2026 22:53:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
