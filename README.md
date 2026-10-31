@@ -294,7 +294,7 @@ const now = {
 
 **🐱 My GitHub Data** 
 
-> 📦 287.2 kB Used in GitHub's Storage 
+> 📦 285.6 kB Used in GitHub's Storage 
  > 
 > 🏆 338 Contributions in the Year 2026
  > 
@@ -357,7 +357,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Relvixx/Relvixx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:32:21 UTC
+ Last Updated on 31/10/2026 21:46:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
